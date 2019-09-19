@@ -31,6 +31,6 @@
     ]
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.11.0"
+    "@fortawesome/fontawesome-free": "^5.11.1"
   }
 }
